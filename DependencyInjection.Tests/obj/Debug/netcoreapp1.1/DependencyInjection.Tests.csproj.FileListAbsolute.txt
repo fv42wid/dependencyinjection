@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\DependencyInjection\DependencyInjection.Tests\bin\Debug\netcoreapp1.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Administrator\Desktop\DependencyInjection\DependencyInjection.Tests\bin\Debug\netcoreapp1.1\xunit.runner.utility.netstandard15.dll
+C:\Users\Administrator\Desktop\DependencyInjection\DependencyInjection.Tests\bin\Debug\netcoreapp1.1\xunit.runner.reporters.netstandard15.dll
+C:\Users\Administrator\Desktop\DependencyInjection\DependencyInjection.Tests\bin\Debug\netcoreapp1.1\DependencyInjection.Tests.deps.json
+C:\Users\Administrator\Desktop\DependencyInjection\DependencyInjection.Tests\bin\Debug\netcoreapp1.1\DependencyInjection.Tests.runtimeconfig.json
+C:\Users\Administrator\Desktop\DependencyInjection\DependencyInjection.Tests\bin\Debug\netcoreapp1.1\DependencyInjection.Tests.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\DependencyInjection\DependencyInjection.Tests\bin\Debug\netcoreapp1.1\DependencyInjection.Tests.dll
+C:\Users\Administrator\Desktop\DependencyInjection\DependencyInjection.Tests\bin\Debug\netcoreapp1.1\DependencyInjection.Tests.pdb
+C:\Users\Administrator\Desktop\DependencyInjection\DependencyInjection.Tests\bin\Debug\netcoreapp1.1\DependencyInjection.dll
+C:\Users\Administrator\Desktop\DependencyInjection\DependencyInjection.Tests\bin\Debug\netcoreapp1.1\DependencyInjection.pdb
+C:\Users\Administrator\Desktop\DependencyInjection\DependencyInjection.Tests\obj\Debug\netcoreapp1.1\DependencyInjection.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\DependencyInjection\DependencyInjection.Tests\obj\Debug\netcoreapp1.1\DependencyInjection.Tests.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\DependencyInjection\DependencyInjection.Tests\obj\Debug\netcoreapp1.1\DependencyInjection.Tests.dll
+C:\Users\Administrator\Desktop\DependencyInjection\DependencyInjection.Tests\obj\Debug\netcoreapp1.1\DependencyInjection.Tests.pdb
